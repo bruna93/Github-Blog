@@ -1,0 +1,89 @@
+.tags-styles p {
+  color: var(--base-text);
+  font-family: var(--font-nunito);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.tags-styles h3 {
+  color: var(--base-subtitle);
+  font-family: var(--font-nunito);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.tags-styles ul {
+  font-family: var(--font-nunito);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.tags-styles li {
+  color: var(--base-text);
+  font-family: var(--font-nunito);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.tags-styles ol {
+  list-style: decimal;
+  padding-left: 2rem;
+}
+
+.tags-styles a {
+  color: #2F81F7;
+  cursor: pointer;
+}
+
+.tags-styles a:hover {
+  text-decoration: underline;
+}
+
+.tags-styles pre {
+  background-color: var(--base-post);
+  border-radius: 0.125rem;
+  color: #dfdfdf;
+  font-family: var(--font-nunito);
+  overflow: auto;
+  padding: 1rem;
+}
+
+.tags-styles code {
+  color: #dfdfdf;
+}
+
+.tags-styles :global .pl-s {
+  color: #d8d849;
+}
+
+.tags-styles :global .pl-ent {
+  color: #c96a89;
+}
+
+.tags-styles :global .pl-c1 {
+  color: #5b99e9;
+}
+
+.tags-styles :global .pl-k {
+  color: #c96a89;
+}
+
+.tags-styles :global .pl-en {
+  color: #28ac3e;
+}
+
+.tags-styles :global .pl-kos {
+  color: #dfdfdf;
+}
+
+.tags-styles :global .pl-smi {
+  color: #28ac3e;
+}
+
+.tags-styles :global .pl-s1 {
+  color: #fa9209;
+}
+
+.tags-styles :global .pl-c {
+  color: #9c9de4;
+}
